@@ -1,0 +1,42 @@
+.clicker {
+  margin: 0px;
+}
+.title {
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin-bottom: 10%;
+  margin-top: 0%;
+  padding: 5px;
+}
+.counter {
+  margin-left: 42%;
+  margin-right: 40%;
+  background-color: rgb(233, 230, 230);
+  max-width: 237px;
+  border-radius: 10px;
+}
+.count-view {
+  padding-top: 10%;
+  margin-left: 45%;
+  font-size: 50px;
+  color: gray;
+}
+.plus {
+  margin: 0%;
+  padding: 10px;
+  background-color: green;
+  color: white;
+}
+.minus {
+  margin: 0%;
+  padding: 10px;
+  background-color: red;
+  color: white;
+}
+.restart {
+  margin: 0%;
+  padding: 10px;
+  background-color: yellow;
+  color: black;
+}
